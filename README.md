@@ -23,3 +23,4 @@ See [data/README.md](data/README.md) for download steps.
 ## Setup
 ```bash
 pip install -r requirements.txt
+*All experiments will be reproducible with pinned dependencies and MLflow tracking in later stages.*
