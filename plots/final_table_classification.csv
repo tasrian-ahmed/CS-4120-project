@@ -1,0 +1,3 @@
+model,val_accuracy,val_f1,val_roc_auc,test_accuracy,test_f1,test_roc_auc
+logreg (best classical),0.92,0.92,0.95,0.92,0.92,0.96
+nn_clf_small (best NN),0.93,0.92,0.96,0.92,0.91,0.94
