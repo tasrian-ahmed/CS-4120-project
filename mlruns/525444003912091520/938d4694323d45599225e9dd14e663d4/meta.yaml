@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tasrianahmed/Downloads/CS-4120-project/notebooks/../mlruns/525444003912091520/938d4694323d45599225e9dd14e663d4/artifacts
+end_time: 1764170195458
+entry_point_name: ''
+experiment_id: '525444003912091520'
+lifecycle_stage: active
+run_id: 938d4694323d45599225e9dd14e663d4
+run_name: reg_lin_reg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764170194029
+status: 3
+tags: []
+user_id: tasrianahmed

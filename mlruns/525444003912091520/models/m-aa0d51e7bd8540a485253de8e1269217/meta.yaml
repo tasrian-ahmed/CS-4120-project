@@ -1,0 +1,10 @@
+artifact_location: file:///Users/tasrianahmed/Downloads/CS-4120-project/notebooks/../mlruns/525444003912091520/models/m-aa0d51e7bd8540a485253de8e1269217/artifacts
+creation_timestamp: 1764170194044
+experiment_id: '525444003912091520'
+last_updated_timestamp: 1764170195358
+model_id: m-aa0d51e7bd8540a485253de8e1269217
+model_type: null
+name: model
+source_run_id: 938d4694323d45599225e9dd14e663d4
+status: 2
+status_message: null

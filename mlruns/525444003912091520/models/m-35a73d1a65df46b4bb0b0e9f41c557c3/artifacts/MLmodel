@@ -1,0 +1,22 @@
+artifact_path: file:///Users/tasrianahmed/Downloads/CS-4120-project/notebooks/../mlruns/525444003912091520/models/m-35a73d1a65df46b4bb0b0e9f41c557c3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-35a73d1a65df46b4bb0b0e9f41c557c3
+model_size_bytes: 2758
+model_uuid: m-35a73d1a65df46b4bb0b0e9f41c557c3
+prompts: null
+run_id: 7a79994a83514d08a9c5db3f25564c26
+utc_time_created: '2025-11-26 15:10:29.880493'
